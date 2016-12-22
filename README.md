@@ -1,2 +1,2 @@
 # andengine-gradle-dir
-A basic AndEngine implementation configured to compile using Gradle.
+A simple directory containing a blank AndEngine project that may be compiled using Gradle.
