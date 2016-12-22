@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tower_of_hanoi"
+                path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/src/main/res/menu/tower_of_hanoi.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="ic_launcher"
+                path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >AndEngine Gradle
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="@android:style/Theme.NoTitleBar.Fullscreen" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/res" />
+        <source path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/build/res/rs/debug" />
+        <source path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/src/debug/res" />
+    </dataSet>
+
+</merger>

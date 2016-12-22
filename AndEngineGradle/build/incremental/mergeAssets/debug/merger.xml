@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/src/main/assets" />
+        <source path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/cawfree/src/android-worker/working-directory/AndEngineProject/AndEngineGradle/src/debug/assets" />
+    </dataSet>
+
+</merger>
